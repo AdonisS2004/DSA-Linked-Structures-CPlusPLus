@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/include\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Linked_Structures_CPP.dir/src/main.cpp.o -c \"/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/src/main.cpp\"",
+  "file": "/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/src/main.cpp",
+  "output": "CMakeFiles/Linked_Structures_CPP.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/include\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Linked_Structures_CPP.dir/src/Node.cpp.o -c \"/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/src/Node.cpp\"",
+  "file": "/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/src/Node.cpp",
+  "output": "CMakeFiles/Linked_Structures_CPP.dir/src/Node.cpp.o"
+},
+{
+  "directory": "/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/include\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Linked_Structures_CPP.dir/src/UnorderedList.cpp.o -c \"/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/src/UnorderedList.cpp\"",
+  "file": "/Users/adonisserrano/Desktop/College/2024 Summer Files/DSA/Linked Structures/src/UnorderedList.cpp",
+  "output": "CMakeFiles/Linked_Structures_CPP.dir/src/UnorderedList.cpp.o"
+}
+]
